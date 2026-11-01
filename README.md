@@ -109,8 +109,6 @@ Located in `src/components`.
 import Example from "$components/Example.svelte";
 ```
 
-* `Footer.svelte`: Pudding recirculation and social links.
-* `Header.svelte`: Pudding masthead.
 
 ### Helper Components
 

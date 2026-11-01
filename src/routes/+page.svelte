@@ -3,6 +3,9 @@
 	import { browser } from "$app/environment";
 	import Meta from "$components/Meta.svelte";
 	import Index from "$components/Index.svelte";
+	import Questions from "$components/Questions.svelte";
+	import QuestionsIntro from "$components/BERTopic.svelte";
+	import Connections from "$components/connections.svelte";
 	import copy from "$data/copy.json";
 	import "$utils/version.js";
 
@@ -21,4 +24,7 @@
 </script>
 
 <Meta {title} {description} {url} {preloadFont} {keywords} />
-<Index />
+<!-- <Index />
+<QuestionsIntro></QuestionsIntro> -->
+<Questions></Questions>
+<!-- <Connections></Connections> -->

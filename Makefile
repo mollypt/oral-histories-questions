@@ -1,5 +1,3 @@
-PHONY: github pudding
-
 github:
 	rm -rf docs
 	cp -r build docs
