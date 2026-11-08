@@ -1,1 +1,0 @@
-import"../chunks/BiDN_5P_.js";import"../chunks/xihTtKlq.js";function e(e){}export{e as component};
