@@ -14,7 +14,7 @@
 		"@lucide/svelte": "^1.43.0",
 		"@rollup/plugin-dsv": "^4.0.0",
 		"@sveltejs/adapter-cloudflare": "^7.2.9",
-		"@sveltejs/adapter-static": "^3.0.9",
+		"@sveltejs/adapter-static": "^3.0.11",
 		"@sveltejs/kit": "^2.70.3",
 		"@sveltejs/vite-plugin-svelte": "^7.3.0",
 		"archieml": "^0.5.0",
