@@ -8,6 +8,10 @@ const preprocess = sveltePreprocess({
 	}
 });
 
+const paths = {
+    base: "/oral-histories-questions"
+}
+
 const config = {
 	compilerOptions: {
 		runes: true
